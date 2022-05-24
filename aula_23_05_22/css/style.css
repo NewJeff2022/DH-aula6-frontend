@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto', sans-serif;
+}
+
+.descontos {
+    background-color: #1CD1B0;
+    height: 38px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+div.título {
+    background-color: #00669F;
+    height: 101px;
+    padding: 28px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.card {
+    width: 374px;
+    height: 597.01px;
+    position: relative;
+    display: inline-block;
+    margin-top: 86.11px;
+    background-color: #F3F3F3;
+}
+
+.imagem_de_fundo {
+    position: relative;
+    
+}
+
+.imagem_coracao {
+    position: absolute;
+    top: 17.92px;
+    left: 23.7px;
+    
+}
+
+img.imagem_perfil {
+    position: absolute;
+    border-radius: 50%;
+    bottom: 318.26px;    
+    display: block;
+    left: 119.25px;
+    border-style: groove rgb(253, 251, 251) 3px;
+}
+
+.conteudo {
+    position: absolute;
+    width: 301.33px;
+    height: 127.53px;
+    left: 36px;
+    bottom: 97.37px;
+}
+h2 {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 83.51px;
+}
+.foot {
+    background-color: #00669F;
+    width: 145.34px;
+    height: 54.76px;
+    padding-top: 16.93px;
+    padding-left: 41.76px;
+    color: white;
+    position: absolute;
+    bottom: 20.85px;
+    left: 113.93px;
+}
+
+.batman_card {
+    margin-left: 200px;
+}
+
+.arlequina_card {    
+    margin-left: 150px;
+
+}
+
+footer {
+    height: 51px;
+    background-color: #00669F;
+    color: white;
+    margin-top: 151px;
+    padding-top: 16px;
+    padding-left: 28px;
+    font-size: 16px;
+    font-weight: 400;
+}
